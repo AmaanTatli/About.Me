@@ -1,0 +1,61 @@
+h1{
+    color: #34495E;
+}
+
+span{
+    color: #BFCDDC;
+}
+
+.introp{
+    color: #34495E;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.container1 > div {
+    padding: 100px 50px;
+}
+
+h2{
+    color: #BFCDDC;
+}
+
+.aboutp{
+    color: #34495E;
+    font-size: 20px;
+}
+
+.aboutmediv{
+    padding: 100px;
+}
+
+.container2 , .container3, .container4{
+    padding: 70px 100px 100px 100px;
+}
+
+h3{
+    font-size: larger;
+}
+
+ul{
+    color: #344d67;
+    font-size: 20px; 
+}
+
+.contactp{
+    color: #34495E;
+    font-size: 20px;
+}
+
+h4{
+    color: rgb(57, 80, 105);
+}
+
+.bottom-container > a{
+    padding: 0px 30px 20px 30px;
+    text-decoration: none;
+}
+
+.copyright{
+    padding-top: 10px;
+}
